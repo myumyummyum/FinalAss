@@ -1,3 +1,1 @@
-
-window.UNSPLASH_ACCESS_KEY = "kkUAufiWMw41ajskTwfXBhbCmNaKCxa-bgiCwFMo";
-window.UNSPLASH_SECRET_KEY = "1YxbNKE5cILZsdK0MQlGC80gxIlp9MPlunr1Dw_Ls5k";
+window.UNSPLASH_ACCESS_KEY = "LzQt46tBh06lfHw7-MUUBu_UJvKNSPo2eImtT32sz8g";
